@@ -1,0 +1,11 @@
+#network communication
+netmiko
+
+#inventory
+PyYAML
+
+#Text parsing
+textfsm
+
+#Code quality
+ruff
