@@ -1,7 +1,7 @@
 import logging
 
 def setup_logger():
-    #Setting up applications logging.
+    #Setting up the applications logging.
 
      logging.basicConfig(
         level=logging.INFO,
