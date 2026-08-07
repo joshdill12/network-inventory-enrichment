@@ -1,6 +1,9 @@
+import uuid
+from datetime import datetime
 import logging
 from logger import setup_logger
 
+#instantiating the logger
 setup_logger()
 logger = logging.getLogger(__name__)
 
